@@ -40,3 +40,16 @@
   
   
 }
+
+
+
+
+ controllers: responsible for handling incoming requests from the client and sending responses back.
+ Models:      represent the structure of the data. They are responsible for interacting with the database, 
+              defining schemas, and handling data validation.
+                -Define data structures (e.g., using ORMs like Mongoose for MongoDB or Sequelize for SQL databases).
+                -Perform database queries.
+                -Validate and manipulate the data.
+
+Services contain the business logic of your application. They handle tasks that are too complex for controllers,
+such as calling multiple models, managing data transformations, or handling external API calls.
