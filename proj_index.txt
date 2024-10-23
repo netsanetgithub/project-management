@@ -1,0 +1,42 @@
+{
+  "project_id": "",
+  "project_name": "",
+  "budget": [{
+	"budget_id":"",
+	"total_budget":"",
+	"budget_breakdown":[{
+			"material":"",
+			"labour":"",
+		
+			}],
+	"budget_owner":"",
+	"budget_approval_status":"",
+	"expence_report":"",
+	"documents":[{
+
+	}],
+	
+	
+   
+	
+  }],
+  "project_manager": "",
+  "Team_members": "",
+  "description": "",
+  "start_date":"",
+  "end_date":"",
+  "milestones":[{
+      
+  }],
+  "priority":"",
+  "status":"",
+  "dependencies":[{}],
+  "risks":[{}],
+  "Deliverables":[{}],
+  "stakeholders":[{}],
+  "communication_plan":[{}],
+  "Location":[{}],
+  
+  
+  
+}
